@@ -1,0 +1,7 @@
+Dataset Resource - https://data.mendeley.com/datasets/8gx2fvg2k6/5
+
+Extensive Guide to EDA - https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e (Incognito)
+
+Get Started with Github - https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6 (Incognito)
+
+Anaother EDA - https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
